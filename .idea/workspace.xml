@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="938c933f-639e-4fd5-aee8-10f80a09803f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2vO3g6zZ0hiP8nM2gjaAC5ulcBC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Users/Bilal Sayyed/Downloads/revision spring busy coder/lesson6.1_bank_app_hibernate/src/main/java/com/busycoder/controller",
+    "last_opened_file_path": "C:/Users/Bilal Sayyed/Downloads/revision spring busy coder/lesson6.3_JPA-hibernate_mapping/src/main/java/com/busycoder/one2onebi/entity"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.busycoder.controller" />
+      <recent name="com.busycoder.entity" />
+      <recent name="com.busycoder.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bilal Sayyed\Downloads\revision spring busy coder\lesson6.3_JPA-hibernate_mapping\src\main\java\com\busycoder\one2onebi\entity" />
+      <recent name="C:\Users\Bilal Sayyed\Downloads\revision spring busy coder\lesson6.3_JPA-hibernate_mapping\src\main\java\com\busycoder\many2manybi\entity" />
+      <recent name="C:\Users\Bilal Sayyed\Downloads\revision spring busy coder\lesson6.3_JPA-hibernate_mapping\src\main\java\com\busycoder\one2onebi" />
+      <recent name="C:\Users\Bilal Sayyed\Downloads\revision spring busy coder\lesson6.3_JPA-hibernate_mapping\src\main\java\com\busycoder\one2one" />
+      <recent name="C:\Users\Bilal Sayyed\Downloads\revision spring busy coder\lesson6.3_JPA-hibernate_mapping\src\main\java\com\busycoder\one2manyuni" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.busycoder.controller" />
+      <recent name="com.busycoder.entity" />
+      <recent name="com.busycoder.exception" />
+      <recent name="com.busycoder.dao" />
+      <recent name="com.busycoder.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="lesson5_bank_app_spring_jdbc_rev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="lesson5_bank_app_spring_jdbc_rev" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="938c933f-639e-4fd5-aee8-10f80a09803f" name="Changes" comment="" />
+      <created>1744002404062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744002404062</updated>
+    </task>
+    <servers />
+  </component>
+</project>
